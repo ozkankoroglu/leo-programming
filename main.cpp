@@ -7,7 +7,7 @@ int main() {
 
   Elephant::Ptr elephant = std::make_shared<Elephant>(100,1);
 
-  elephant->Name = "dolly";
+  elephant->Name = "dollianna";
 
   return 0;
 }
